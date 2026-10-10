@@ -1,0 +1,6 @@
+{
+  "name": "LogoMotion AI - AI Logo Designer & Video Animator",
+  "description": "Design bespoke, high-resolution company logos (1K, 2K, 4K) using Gemini and transform them into cinematic animated motion logos with Veo video generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
